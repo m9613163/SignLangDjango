@@ -30,14 +30,14 @@ settings.py에서 DEBUG가 False인지 확인
 로컬에서는 DEBUG가 True여야 실행 가능
 
 ## Googld MediaPipe
-![image](https://user-images.githubusercontent.com/71717840/204175327-a1621341-9eb4-4f30-8c47-fc56b81b7fdf.png)
-손의 뼈대 추출
+![image](https://user-images.githubusercontent.com/71717840/204175327-a1621341-9eb4-4f30-8c47-fc56b81b7fdf.png) <br>
+Googld MediaPipe를 사용한 손의 뼈대 추출
 
 ## 프레임 추출
-![image](https://user-images.githubusercontent.com/71717840/204175373-2d8c8e4c-a77f-4607-8c85-51caecfc1a68.png)
+![image](https://user-images.githubusercontent.com/71717840/204175373-2d8c8e4c-a77f-4607-8c85-51caecfc1a68.png) <br>
 
 ## 테스트
-![image](https://user-images.githubusercontent.com/71717840/204175410-fc33b9e9-3f8b-4488-a0da-5a87bae67e3f.png)
+![image](https://user-images.githubusercontent.com/71717840/204175410-fc33b9e9-3f8b-4488-a0da-5a87bae67e3f.png) <br>
 
 
 ## 인식 동작
